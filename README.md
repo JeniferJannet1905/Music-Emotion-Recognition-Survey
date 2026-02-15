@@ -2,12 +2,12 @@
 
 This repository contains our research survey paper on **Music Emotion Recognition (MER)** using deep learning techniques.
 
-📄 **Read the full paper here:**  
-➡️ [View Paper](paper.md)
+**Read the full paper here:**  
+[View Paper](paper.md)
 
 ---
 
-## 📌 Overview
+## Overview
 
 Music Emotion Recognition (MER) focuses on automatically identifying emotional content in music. This survey reviews:
 
@@ -20,7 +20,7 @@ Music Emotion Recognition (MER) focuses on automatically identifying emotional c
 
 ---
 
-## 🧠 Key Topics
+## Key Topics
 
 - Deep Learning for MER
 - Spectrogram-based CNN models
@@ -31,7 +31,7 @@ Music Emotion Recognition (MER) focuses on automatically identifying emotional c
 
 ---
 
-## 📚 Authors
+## Authors
 
 **Mr. S. Palanisamy**  
 Assistant Professor, Bharathiar University  
@@ -41,7 +41,7 @@ M.Sc. Data Analytics, Bharathiar University
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you find this survey useful, please cite appropriately.
 
