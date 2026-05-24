@@ -5,6 +5,7 @@ This repository contains our research survey paper on **Music Emotion Recognitio
 **Read the full paper here:**  
 [View Paper](paper.md)
 
+ISBN - 978-93-6126-040-7
 ---
 
 ## Overview
